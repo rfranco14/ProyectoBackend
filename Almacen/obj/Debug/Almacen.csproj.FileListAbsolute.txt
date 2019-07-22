@@ -1,0 +1,101 @@
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\MainWindow.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\CategoriaView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\App.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.cache
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.lref
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\ControlzEx.dll
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\EntityFramework.dll
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\MahApps.Metro.dll
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\ControlzEx.pdb
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\EntityFramework.xml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\bin\Debug\MahApps.Metro.xml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\MainWindow.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\CategoriaView.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.g.resources
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.cache
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.csproj.CopyComplete
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.pdb
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\App.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Resources\Icons.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.baml
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\ProductoView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen\Almacen\obj\Debug\View\ProductoView.baml
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.exe.config
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.exe
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.pdb
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\ControlzEx.dll
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.dll
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.dll
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.dll
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\System.Windows.Interactivity.dll
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\ControlzEx.pdb
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.xml
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.xml
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.pdb
+E:\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.xml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\MainWindow.g.cs
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\CategoriaView.g.cs
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\ProductoView.g.cs
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.g.cs
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\App.g.cs
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.cache
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.lref
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\App.baml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\MainWindow.baml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\CategoriaView.baml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\ProductoView.baml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.baml
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.g.resources
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.cache
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.CopyComplete
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.exe
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.pdb
+E:\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\ControlzEx.dll
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.dll
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.dll
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\ControlzEx.pdb
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.xml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\bin\Debug\MahApps.Metro.xml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\MainWindow.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\CategoriaView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\ProductoView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\App.g.cs
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.cache
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen_MarkupCompile.lref
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\App.baml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\MainWindow.baml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\CategoriaView.baml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\ProductoView.baml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\View\TipoEmpaqueView.baml
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.g.resources
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.cache
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.csproj.CopyComplete
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Rudy Franco\source\repos\Almacen 14072019\Almacen\Almacen\obj\Debug\Almacen.pdb

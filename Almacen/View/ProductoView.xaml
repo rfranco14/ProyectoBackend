@@ -1,0 +1,77 @@
+﻿<Controls:MetroWindow x:Class="Almacen.View.ProductoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:Almacen.View"
+        mc:Ignorable="d"
+        Title="ProductoView" Height="550" Width="1406">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="232*"></ColumnDefinition>
+            <ColumnDefinition Width="249*"></ColumnDefinition>
+            <ColumnDefinition Width="906*"></ColumnDefinition>
+
+            <ColumnDefinition Width="11*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Codigo Categoria" Grid.Row="1" Grid.Column="0" FontFamily="Arial"  Margin="52,26,0,23" RenderTransformOrigin="0.474,-0.259" HorizontalAlignment="Left" Width="274" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Row="1" Grid.Column="1" IsReadOnly="{Binding IsReadOnlyCodigoCategoria}" Text="{Binding CodigoCategoria}" Margin="66,26,21,21"></TextBox>
+
+        <Label Content="Codigo Empaque" Grid.Row="2" Grid.Column="0" FontFamily="Arial"  Margin="52,26,0,23" RenderTransformOrigin="0.474,-0.259" HorizontalAlignment="Left" Width="274" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Row="2" Grid.Column="1" IsReadOnly="{Binding IsReadOnlyCodigoEmpaque}" Text="{Binding CodigoEmpaque}" Margin="66,26,21,21"></TextBox>
+
+        <Label Content="Descripcion" Grid.Row="3" Grid.Column="0" FontFamily="Arial"  Margin="52,26,0,23" RenderTransformOrigin="0.474,-0.259" HorizontalAlignment="Left" Width="274" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Row="3" Grid.Column="1" IsReadOnly="{Binding IsReadOnlyDescripcion}" Text="{Binding Descripcion}" Margin="66,26,21,21"></TextBox>
+
+        <Label Content="Imagen" Grid.Row="4" Grid.Column="0" FontFamily="Arial"  Margin="52,26,0,23" RenderTransformOrigin="0.474,-0.259" HorizontalAlignment="Left" Width="274" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Row="4" Grid.Column="1" IsReadOnly="{Binding IsReadOnlyImagen}" Text="{Binding Imagen}" Margin="66,26,21,21"></TextBox>
+
+        <DataGrid Name ="PRODUCTO"
+                  SelectedItem="{Binding Path= SelectProducto}"
+                  ItemsSource="{Binding Path=Producto}"
+                  
+                  Grid.Row="5"
+                  
+                  FontFamily="Arial"
+                  
+                  AutoGenerateColumns="False" Margin="10,28,0,61" Grid.Column="0" Grid.ColumnSpan="3">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn
+                    ElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                    EditingElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                    Header="Seleccionar"
+                    Binding="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow}, Path=IsSelected, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Codigo" Binding="{Binding CodigoProducto}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Codigo Categoria" Binding="{Binding CodigoCategoria}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Codigo Empaque" Binding="{Binding CodigoEmpaque}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Descripcion" Binding="{Binding Descripcion}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Precio Unitario" Binding="{Binding PrecioUnitario}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Precio Por Docena" Binding="{Binding PrecioPorDocena}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Precio Por Mayor" Binding="{Binding PrecioPorMayor}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Existencia" Binding="{Binding Existencia}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Imagen" Binding="{Binding Imagen}" IsReadOnly="True"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="525,101,122,10" Grid.Column="2">
+            <Button IsEnabled="{Binding IsEnabledAdd}" Content="Add" Command="{Binding Instancia}" CommandParameter="Add" Width="38" Margin="0,0,0,14"/>
+            <Button IsEnabled="{Binding IsEnabledDelete}" Content="Delete" Command="{Binding Instancia}" CommandParameter="Delete" Margin="0,0,0,14"/>
+            <Button IsEnabled="{Binding IsEnableUpdate}" Content="Update" Command="{Binding Instancia}" CommandParameter="Update" Margin="0,0,0,14"/>
+            <Button IsEnabled="{Binding IsEnableSave}" Content="Save" Command="{Binding Instancia}" CommandParameter="Save" Margin="0,0,0,14"/>
+            <Button IsEnabled="{Binding IsEnableCancel}" Content="Cancel" Command="{Binding Instancia}" CommandParameter="Cancel" Margin="0,0,0,14"/>
+        </StackPanel>
+
+
+
+    </Grid>
+</Controls:MetroWindow>
